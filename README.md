@@ -10,3 +10,4 @@ STAGE 4 --> Implement the API Gateway, API and supporting lambda function <br />
 STAGE 5 --> Implement the static frontend application and test functionality <br />
 STAGE 6 --> Cleanup the account
 
+# Architecture Diagrams
