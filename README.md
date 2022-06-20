@@ -11,3 +11,9 @@ STAGE 5 --> Implement the static frontend application and test functionality <br
 STAGE 6 --> Cleanup the account
 
 # Architecture Diagrams
+[STAGE 1](images/ARCHITECTURE-STAGE1.png)<br />
+[STAGE 2](images/ARCHITECTURE-STAGE2.png)<br />
+[STAGE 3](ARCHITECTURE-STAGE3.png)<br />
+[STAGE 4](ARCHITECTURE-STAGE4.png)<br />
+[STAGE 5](ARCHITECTURE-STAGE5.png)<br />
+[STAGE 6](ARCHITECTURE-STAGE6-ENDSTATE.png)<br />
