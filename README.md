@@ -13,7 +13,7 @@ STAGE 6 --> Cleanup the account
 # Architecture Diagrams
 [STAGE 1](images/ARCHITECTURE-STAGE1.png)<br />
 [STAGE 2](images/ARCHITECTURE-STAGE2.png)<br />
-[STAGE 3](ARCHITECTURE-STAGE3.png)<br />
-[STAGE 4](ARCHITECTURE-STAGE4.png)<br />
-[STAGE 5](ARCHITECTURE-STAGE5.png)<br />
-[STAGE 6](ARCHITECTURE-STAGE6-ENDSTATE.png)<br />
+[STAGE 3](images/ARCHITECTURE-STAGE3.png)<br />
+[STAGE 4](images/ARCHITECTURE-STAGE4.png)<br />
+[STAGE 5](images/ARCHITECTURE-STAGE5.png)<br />
+[STAGE 6](images/ARCHITECTURE-STAGE6-ENDSTATE.png)<br />
