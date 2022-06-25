@@ -1,5 +1,5 @@
 
-var API_ENDPOINT = 'https://z4jql3iayd.execute-api.us-east-1.amazonaws.com/prod/hydrotron';
+var API_ENDPOINT = 'REPLACEME_API_GATEWAY_INVOKE_URL/hydrotron';
 // if correct it should be similar to https://somethingsomething.execute-api.us-east-1.amazonaws.com/prod/hydrotron
 
 var errorDiv = document.getElementById('error-message')
