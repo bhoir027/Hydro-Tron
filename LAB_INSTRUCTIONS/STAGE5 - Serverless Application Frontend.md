@@ -13,7 +13,7 @@ Scroll down and in the `Bucket Policy` area, click `Edit`.<br />
 
 in the box, paste the code below
 
-'''
+```
 {
     "Version":"2012-10-17",
     "Statement":[
@@ -26,7 +26,7 @@ in the box, paste the code below
       }
     ]
   }
-'''
+```
 <br />
 Replace the `HYDRO_TRON_BUCKET_ARN` (being careful NOT to include the `/*`) with the bucket ARN, which you can see near to `Bucket ARN` Click `Save Changes`
 
